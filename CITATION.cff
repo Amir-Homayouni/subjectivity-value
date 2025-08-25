@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Homayouni
+    given-names: Amir
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Subjectivity-Value Research Project"
+version: 1.0.0
+doi: 10.5281/zenodo.1234567
+date-released: 2024-01-01
+url: "https://github.com/Amir-Homayouni/subjectivity-value"
+repository-code: "https://github.com/Amir-Homayouni/subjectivity-value"
+abstract: "A machine learning research project investigating subjectivity in human value annotations using BERT embeddings and triplet loss methods."
+keywords:
+  - machine learning
+  - natural language processing
+  - human values
+  - subjectivity detection
+  - BERT
+  - triplet loss
+  - annotation analysis
+license: MIT
+type: software 
