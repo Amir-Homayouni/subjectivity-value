@@ -10,7 +10,6 @@ setup(
     name="subjectivity-value",
     version="1.0.0",
     author="Amir Homayouni",
-    author_email="your.email@example.com",
     description="A machine learning research project investigating subjectivity in human value annotations",
     long_description=long_description,
     long_description_content_type="text/markdown",
