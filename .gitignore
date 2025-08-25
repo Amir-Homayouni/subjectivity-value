@@ -76,11 +76,9 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Data files (uncomment if you want to exclude large data files)
-# *.csv
-# *.pkl
-# annotations-level1.csv
-# test_df.csv
+# Large data files (excluded due to GitHub size limits)
+test_df.csv
+annotations-level1.csv
 
 # Model files
 *.pth

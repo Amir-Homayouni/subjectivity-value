@@ -21,6 +21,8 @@ The project uses human value annotation data with:
 - **Value categories**: 21 value categories based on Schwartz's theory (`value-categories.json`)
 - **Annotations**: Multi-annotator labels with subjectivity indicators
 
+> **Note**: Large data files (`test_df.csv`, `annotations-level1.csv`) are excluded from this repository due to GitHub size limits. Please contact the author for access to the complete dataset.
+
 ### Value Categories
 The dataset includes 21 human values organized into categories like:
 - Self-direction (thought & action)
